@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/Diego0917/Diego0917/blob/main/DIEKOR.png)
+![Banner](https://github.com/Diego0917/Diego0917/blob/main/PointCode.png)
 
 <img alt="Waving Hand" src="https://raw.githubusercontent.com/MartinVerastegui/MartinVerastegui/master/Assets/HandWave.gif" width='40' align="left"/><h1>¡Hola! Soy Diegoooooo🤓</h1>
 
