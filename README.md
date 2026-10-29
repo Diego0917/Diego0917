@@ -10,7 +10,6 @@
 🎓 &nbsp;Me encuentro estudiando **Ingenieria de Sistemas.  
 🌱 &nbsp;Me encuentro profundizando mis conocimientos en **Arquitectura de Software**.  
 🚀 &nbsp;Me encanta explorar el potencial de la **IA** para la creación de contenido y optimización de procesos. 
-
 🚀 &nbsp;Me encuentro desarrollando una micro empresa de desarrollo web. 
 
 💬 &nbsp;¡Siempre emocionado por aprender mas alla!
